@@ -1,5 +1,9 @@
 # Automatisch MCP Server
 
+[![npm version](https://img.shields.io/npm/v/automatisch-mcp-server)](https://www.npmjs.com/package/automatisch-mcp-server)
+[![npm downloads](https://img.shields.io/npm/dm/automatisch-mcp-server)](https://www.npmjs.com/package/automatisch-mcp-server)
+[![bundle size](https://img.shields.io/bundlephobia/min/automatisch-mcp-server)](https://bundlephobia.com/result?p=automatisch-mcp-server)
+
 A Model Context Protocol (MCP) server that provides AI assistants with access to [Automatisch](https://github.com/automatisch/automatisch) workflow automation capabilities.
 
 ## Overview

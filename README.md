@@ -204,6 +204,6 @@ This project is licensed under the MIT License.
 ## Support
 
 For issues related to:
-- **MCP Server**: Open an issue in this repository
+- **Issues specific to MCP Server integration or this repository**: [Open an issue here](https://github.com/milisp/automatisch-mcp-server/issues)
 - **Automatisch**: Visit [Automatisch GitHub Issues](https://github.com/automatisch/automatisch/issues)
 - **MCP Protocol**: Check [MCP Documentation](https://modelcontextprotocol.io/)

@@ -67,7 +67,7 @@ Add to your Claude Desktop configuration file:
   "mcpServers": {
     "automatisch": {
       "command": "npx",
-      "args": ["-y automatisch-mcp-server"],
+      "args": ["-y", "automatisch-mcp-server"],
       "env": {
         "AUTOMATISCH_BASE_URL": "http://localhost:3001",
         "AUTOMATISCH_API_KEY": "your-api-key"

@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/milisp-automatisch-mcp-server-badge.png)](https://mseep.ai/app/milisp-automatisch-mcp-server)
+
 # Automatisch MCP Server
 
 [![npm version](https://img.shields.io/npm/v/automatisch-mcp-server)](https://www.npmjs.com/package/automatisch-mcp-server)
